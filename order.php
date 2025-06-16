@@ -6,7 +6,7 @@ $result = $conn->query("SELECT * FROM food");
 ?>
 
 <div class="container">
-    <h2 style="text-align:center; color:#d9232d;">Place Your KFC-Inspired Order</h2>
+    <h2 style="text-align:center; color:#d9232d;">Place Order</h2>
 
     <form id="orderForm">
         <label for="foodId">Select Food</label>
