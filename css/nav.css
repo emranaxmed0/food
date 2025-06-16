@@ -1,0 +1,25 @@
+.topnav{
+    background-color: bisque;
+    overflow: hidden;
+}
+
+.topnav a{
+    background-color: bisque;
+    color: maroon;
+    text-decoration: none;
+    float: left;
+    display: block;
+    padding: 14px 16px;
+    text-align: left;
+    font-weight: bold;
+}
+
+.topnav a:hover{
+    color: bisque;
+    background-color:maroon;
+    text-decoration: none;
+}
+
+.topnav-right{
+    float: right;
+}
